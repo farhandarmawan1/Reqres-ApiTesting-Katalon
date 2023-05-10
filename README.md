@@ -1,7 +1,6 @@
-# Web Service Testing Samples
+# Reqres Api Testing
 
-See https://docs.katalon.com/katalon-studio/docs/web-service-samples.html.
-
+Report testing : https://reqreskatalon-report.netlify.app/
 ## Companion products
 
 ### Katalon TestOps
